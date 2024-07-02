@@ -1,1 +1,1 @@
-Documentación del Registro de Usuarios
+Documentación del Registro de Usuarios - Mejora
