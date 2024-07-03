@@ -1,3 +1,3 @@
 # sistema-bancario
-sistema-bancario README
+sistema-bancario README.md
 ![Imagen](banco.PNG)
